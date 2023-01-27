@@ -1,0 +1,128 @@
+*{
+
+margin: 0;
+
+padding: 0;
+
+}
+
+body{
+
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+
+}
+
+#portada {
+ 
+    background-color: steelblue;
+    background-image: url(https://i.pinimg.com/originals/1c/a3/79/1ca3790edd6207b40f8cd4ecaa99bb12.jpg);
+    padding-left: 100px; 
+    width: auto;
+    height: 220px;
+     
+}
+
+#nombre {
+
+    font-size: 80px;
+    font-weight: bold;
+    padding-top: 60px;   
+    padding-bottom: 10px;
+    color:aliceblue
+    
+}
+
+  
+
+#foto {
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-right: 70px;
+    position: relative;
+    float: left;
+    width: 55%;
+    height: auto;
+    border-radius: 50%;
+   
+}
+
+ul {
+    list-style: none;
+}
+
+h3 {
+    font-size: x-large;
+}
+
+h5 {
+    font-size: large;
+}
+
+/*bloque de la derecha izquierda **/
+
+#datos {
+    
+    padding-left: 10px;
+    padding-top: 15px;
+    margin-left: 57px;
+    float: left;
+    position: relative;
+    width: 35%;
+    height: auto;
+    
+}
+
+/*bloque de la derecha derecha **/
+
+#info {
+    padding-top: 15px;
+    margin-bottom: 30px;
+    padding-left: 50px;
+    margin-left: 10px;
+    position: relative;
+    float: right;
+    width: 55%;
+    background-color: rgb(206, 207, 209);     
+    height: 760px;
+}
+
+/*divisor horizontal grueso **/
+
+#principal {
+    height: 3px;  
+    background-color: rgb(211, 136, 23);      
+    margin-top: 8px;
+}
+
+#boton1 {
+    background-color: #008CBA;
+    color: white;
+    font-size: medium;
+}
+#boton2 {
+    background-color: #008CBA;
+    color: white;
+    font-size: medium;
+}
+#boton3 {
+    background-color: #008CBA;
+    color: white;
+    font-size: medium;
+}
+
+#boton1b {
+    background-color: #72706c;
+    color: white;
+    font-size: medium;
+}
+#boton2b {
+    background-color: #72706c;
+    color: white;
+    font-size: medium;
+}
+#boton3b {
+    background-color: #72706c;
+    color: white;
+    font-size: medium;
+}
